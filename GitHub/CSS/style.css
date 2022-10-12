@@ -1,0 +1,51 @@
+body{
+  width: 600px;
+  height: 680px;
+margin:0px auto;
+
+border: 3px solid black;
+}
+.conteiner {
+  text-align: center;
+}
+.menu {
+ font-size: 20px;
+ 
+}
+.nav1 {
+  margin: 0px 20px 0px 20px;
+}
+.nav2 {
+  margin: 0px 20px 0px 20px;
+}
+.nav3 {
+  margin: 0px 20px 0px 20px;
+}
+.nav4 {
+  margin: 0px 20px 0px 20px;
+}
+.information{
+  margin: 30px 20px 0px 20px;
+}
+.major{
+  margin: 20px 0px;
+  width: 200px;
+  height: 220px;
+}
+.block1{
+  width: 50px;
+  height: 50px;
+  position:absolute;
+  left:220px;
+  top:230px;
+}
+.block2{
+  width: 50px;
+  height: 50px;
+  position:absolute;
+  left: 1580px;
+  top:230px;
+}
+.rotate{
+  transform: rotate(180deg);
+}
